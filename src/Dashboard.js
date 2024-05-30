@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import EmployeeList from './EmployeeList';
+import ProductList from './ProductList';
 
 function Dashboard() {
   // Function to handle logout
@@ -30,7 +30,7 @@ function Dashboard() {
       {/* Employee list */}
       <div style={containerStyle}>
         <h2 style={headerStyle}> </h2>
-        <EmployeeList />
+        <ProductList />
       </div>
     </div>
   );

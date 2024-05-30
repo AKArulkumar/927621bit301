@@ -1,6 +1,6 @@
 .container {
     margin-top: 5rem;
-    text-align: center; /* Center align content */
+    text-align: center; 
   }
   
   h1 {
@@ -14,18 +14,18 @@
   }
   
   .btn-primary {
-    background-color: #f0f0f0; /* Light background color */
+    background-color: #f0f0f0; 
     border-color: #f0f0f0;
     padding: 0.5rem 1.5rem;
     font-size: 1rem;
     font-weight: bold;
-    color: #333; /* Button text color */
+    color: #333; 
     cursor: pointer;
     transition: background-color 0.3s ease;
   }
   
   .btn-primary:hover {
-    background-color: #dcdcdc; /* Button background color on hover */
+    background-color: #dcdcdc; 
     border-color: #dcdcdc;
   }
   

@@ -1,0 +1,35 @@
+.product-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.product-table th,.product-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.product-table th {
+  background-color: #f0f0f0;
+}
+
+.product-name {
+  width: 40%;
+}
+
+.product-price {
+  width: 30%;
+}
+
+.product-discount {
+  width: 30%;
+}
+
+.discount-price {
+  color: #008000;
+}
+
+.discount-percentage {
+  font-size: 12px;
+  color: #666;
+}
